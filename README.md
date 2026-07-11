@@ -11,7 +11,7 @@ Ex-Google / Apple / ServiceNow. Creator of AI Badger and Scriptella ETL.
 
 - **[AI Badger](https://github.com/PVRLabs/aibadger)** - Local-first CLI tool that extracts precise, token-efficient codebase context for any AI chat (Claude, ChatGPT, Grok, etc.). Built in Go with a sleek TUI. Zero cloud. Zero wasted tokens. Full privacy.
 
-- **PVR Labs Consulting** - Boutique engineering for deep Java performance optimization, JVM tuning, high-throughput concurrency, and scalability.
+- **[PVR Labs Consulting](https://pvrlabs.xyz)** - Boutique engineering for deep Java performance optimization, JVM tuning, high-throughput concurrency, and scalability.
 
 - **Open Source** - Creator and maintainer of [Scriptella ETL](https://github.com/scriptella/scriptella-etl).
 
