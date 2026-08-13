@@ -11,17 +11,15 @@ Previously at Google, Apple, and ServiceNow. Creator of AI Badger and Scriptella
 ## 🚀 Current Focus
 
 * **[AI Badger](https://github.com/PVRLabs/aibadger)** - A local-first CLI for extracting precise, token-efficient codebase context for ChatGPT, Claude, Grok, and other AI tools. Built in Go, with no repository upload required.
-* **[Agent Scripts](https://github.com/ejboy/agent-scripts)** - Curated scripts and automation wrappers for optimizing AI agent workflows and local coding feedback loops.
-* **[Awesome Efficient Devtools](https://github.com/ejboy/awesome-efficient-devtools)** - An opinionated collection of open-source, lightweight, local-first, fast, and focused developer tools that reduce compute, context, operational, or workflow overhead.
 * **[StatLite](https://github.com/PVRLabs/statlite)** - A tiny, self-hosted monitoring dashboard for Spring Boot applications. Actuator metrics, SQLite storage, and simple charts without a full Prometheus and Grafana stack.
 * **[Scriptella ETL](https://github.com/scriptella/scriptella-etl)** - Open-source Java ETL and script execution tool built around SQL and simple configuration.
 
 ## 🛠️ What I Build
 
-* Local-first developer tools for focused AI-assisted workflows
-* Lightweight, self-hosted software for small servers and teams
-* Fast and efficient Java systems
-* Simple solutions to problems usually addressed with heavy infrastructure
+* Local-first developer tools for focused AI-assisted workflows — **[AI Badger](https://github.com/PVRLabs/aibadger)**, **[Agent Scripts](https://github.com/ejboy/agent-scripts)**
+* Lightweight, self-hosted software for small servers and teams — **[StatLite](https://github.com/PVRLabs/statlite)**
+* Fast and efficient Java systems — **[Scriptella ETL](https://github.com/scriptella/scriptella-etl)**
+* Simple solutions to problems usually addressed with heavy infrastructure — see **[Awesome Efficient Devtools](https://github.com/ejboy/awesome-efficient-devtools)**
 
 ## 🌐 Connect
 
