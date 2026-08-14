@@ -16,10 +16,10 @@ Previously at Google, Apple, and ServiceNow. Creator of AI Badger and Scriptella
 
 ## 🛠️ What I Build
 
-* Local-first developer tools for focused AI-assisted workflows — **[AI Badger](https://github.com/PVRLabs/aibadger)**, **[Agent Scripts](https://github.com/ejboy/agent-scripts)**
-* Lightweight, self-hosted software for small servers and teams — **[StatLite](https://github.com/PVRLabs/statlite)**
-* Fast and efficient Java systems — **[Scriptella ETL](https://github.com/scriptella/scriptella-etl)**
-* Simple solutions to problems usually addressed with heavy infrastructure — see **[Awesome Efficient Devtools](https://github.com/ejboy/awesome-efficient-devtools)**
+* Local-first developer tools for focused AI-assisted workflows - **[AI Badger](https://github.com/PVRLabs/aibadger)**, **[Agent Scripts](https://github.com/ejboy/agent-scripts)**
+* Lightweight, self-hosted software for small servers and teams - **[StatLite](https://github.com/PVRLabs/statlite)**
+* Fast and efficient Java systems - **[Scriptella ETL](https://github.com/scriptella/scriptella-etl)**
+* Simple solutions to problems usually addressed with heavy infrastructure - see **[Awesome Efficient Devtools](https://github.com/ejboy/awesome-efficient-devtools)**
 
 ## 🌐 Connect
 
