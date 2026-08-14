@@ -24,12 +24,8 @@ Previously at Google, Apple, and ServiceNow. Creator of AI Badger and Scriptella
 ## 🌐 Connect
 
 * **Website:** [pvrlabs.xyz](https://pvrlabs.xyz)
-* **AI Badger:** [pvrlabs.xyz/aibadger](https://pvrlabs.xyz/aibadger)
 * **X:** [@kupolov](https://x.com/kupolov)
 * **LinkedIn:** [linkedin.com/in/kupolov](https://www.linkedin.com/in/kupolov)
 
 ---
-
-Currently building and shipping tools under PVR Labs. Feedback, issues, and contributions are welcome.
-
-*📍 San Diego, California*
+Built in San Diego. 🌊
