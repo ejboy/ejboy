@@ -4,8 +4,6 @@
 
 Founder of [PVR Labs](https://pvrlabs.xyz), where I build fast, lightweight, self-hosted software for developers and small teams.
 
-Previously at Google, Apple, and ServiceNow. Creator of AI Badger and Scriptella ETL, with deep experience in Java performance, JVM internals, concurrency, and distributed systems.
-
 ---
 
 ## 🚀 Current Focus
