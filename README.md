@@ -9,7 +9,7 @@ Founder of [PVR Labs](https://pvrlabs.xyz), where I build fast, lightweight, sel
 ## 🚀 Current Focus
 
 * **[AI Badger](https://github.com/PVRLabs/aibadger)** - A local-first CLI for extracting precise, token-efficient codebase context for ChatGPT, Claude, Grok, and other AI tools. Built in Go, with no repository upload required.
-* **[StatLite](https://github.com/PVRLabs/statlite)** - A tiny, self-hosted monitoring dashboard for Spring Boot applications. Actuator metrics, SQLite storage, and simple charts without a full Prometheus and Grafana stack.
+* **[StatLite](https://github.com/PVRLabs/statlite)** - A tiny, self-hosted monitoring dashboard for Spring Boot and Quarkus applications. Metrics and health, SQLite storage, and simple charts without a full Prometheus and Grafana stack.
 * **[Scriptella ETL](https://github.com/scriptella/scriptella-etl)** - Open-source Java ETL and script execution tool built around SQL and simple configuration.
 
 ## 🛠️ What I Build
