@@ -23,5 +23,3 @@ Founder of [PVR Labs](https://pvrlabs.xyz), where I build fast, lightweight, sel
 
 * **Website:** [pvrlabs.xyz](https://pvrlabs.xyz)
 
----
-Built in San Diego. 🌊
