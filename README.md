@@ -22,8 +22,6 @@ Founder of [PVR Labs](https://pvrlabs.xyz), where I build fast, lightweight, sel
 ## 🌐 Connect
 
 * **Website:** [pvrlabs.xyz](https://pvrlabs.xyz)
-* **X:** [@kupolov](https://x.com/kupolov)
-* **LinkedIn:** [linkedin.com/in/kupolov](https://www.linkedin.com/in/kupolov)
 
 ---
 Built in San Diego. 🌊
